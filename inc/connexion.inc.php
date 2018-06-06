@@ -2,7 +2,7 @@
 
 function connexion($bddname) {
 /* variables de connexion =================================================== */
-    $serveur = 'localost';       $loginserveur = 'root';   $mdpserveur = ''; // variables connexion serveur
+    $serveur = 'localhost';       $loginserveur = 'root';   $mdpserveur = ''; // variables connexion serveur
 
 
 /* connexion ================================================================ */
@@ -11,3 +11,4 @@ function connexion($bddname) {
     $con = new PDO('mysql:host='.$serveur.';dbnam='.$bddname,$loginserveur, $mdpseveur, $pdo_options);
     return $con;
 }
+?>
