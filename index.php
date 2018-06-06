@@ -1,8 +1,10 @@
 <!-- fichier cnam/nfa017/2017-cf1/index.inc.php - 20180604-PBO -->
 
-<!-- ENTETE HTML =============================================================== --><?php
-     include("entete.inc.php");
-     entete("NFA083 CF1 : Présentation hébergeur",0); /* pour le title et le h1 */ ?>
+<!-- ENTETE HTML =============================================================== -->
+<?php
+     include("inc/entete.inc.php");
+     entete("NFA083 CF1 : Présentation hébergeur",0); /* pour le title et le h1 */ 
+?>
 
 <!-- PRESENTATION Hébergeur ============================================================== -->
   <section><h2>Informations sur mon hébergeur</h2>
