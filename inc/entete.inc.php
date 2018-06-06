@@ -17,7 +17,7 @@
           <nav>
 			<a href="home.php" class="<?php if(!$actif){echo 'actif'; } ?>">
                   Présentation hébergeur</a>
-            <a href="question.php" class="<?php if($actif){echo 'actif'; } ?>">
+            <a href="inc/question-liste.inc.php" class="<?php if($actif){echo 'actif'; } ?>">
                   Question Hébergement</a>
           </nav>
     <?php
