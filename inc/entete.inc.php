@@ -15,7 +15,7 @@
     <body>
 		<h1><?php echo $title; ?></h1>
           <nav>
-			<a href="home.php" class="<?php if(!$actif){echo 'actif'; } ?>">
+			<a href="index.php" class="<?php if(!$actif){echo 'actif'; } ?>">
                   Présentation hébergeur</a>
             <a href="inc/question-liste.inc.php" class="<?php if($actif){echo 'actif'; } ?>">
                   Question Hébergement</a>
