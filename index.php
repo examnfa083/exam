@@ -8,14 +8,14 @@
 
 <!-- PRESENTATION Hébergeur ============================================================== -->
   <section><h2>Informations sur mon hébergeur</h2>
-           <p><strong>Nom : </strong> Gandi</p>
+           <p><strong>Nom : </strong> 000webhost.com</p>
            <p><strong>Logo : </strong> <img src="img/gandi.jpg" /></p>
-           <p><strong>Siège social : </strong> 63, 65 Boulevard Massena 75013 Paris</p>
+           <p><strong>Siège social : </strong> </p>
            <p><strong>Lien d'inscription : </strong>
-           <a href="https://www.gandi.net/fr/simple-hosting" target="_blanck" >Inscription Gandi</a></p>
+           <a href="https://fr.000webhost.com/" target="_blanck" >Inscription 000webhost.com</a></p>
   </section>
   <section><h2>Informations sur la page question.php</h2>
-           <p><strong>Temps de chargement total en ms( https://tools.pingdom.com/ ): </strong> 2 050 s</p>
+           <p><strong>Temps de chargement total en ms( https://tools.pingdom.com/ ): </strong> 644 s</p>
            <p><strong>Temps lié hébergeur (ms) : </strong> 1 200 s</p>
            <p><strong>Temps lié image (ms) : </strong> 46 ms</p>
            <p><strong>Temps lié CSS (ms) : </strong> 42 ms</p>
