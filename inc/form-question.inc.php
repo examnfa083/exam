@@ -2,7 +2,7 @@
 
 /* FORMULAIRE satisfaction  ===================================================== */ ?>
     <h2>Demande de complément d'information</h2>
-    <form action="index.php" method="GET" name="form_satisfaction" >
+    <form action="question.php" method="GET" name="form_satisfaction" >
 
       <p><strong><label for="question_pseudo" >Pseudo *</label></strong>      <!-- PSEUDO -->
           <input type="text" maxlength=20 required
