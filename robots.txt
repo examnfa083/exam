@@ -1,0 +1,5 @@
+User-agent: *
+# Exclue tous les fichiers des dossiers secondaires
+Disallow: https://exam-nfa83.000webhostapp.com/inc/ 
+Disallow: https://exam-nfa83.000webhostapp.com/css/ 
+Disallow: https://exam-nfa83.000webhostapp.com/img/ 

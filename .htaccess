@@ -1,0 +1,10 @@
+#Version actuelle (source : http://netpresta-formation.fr )
+
+
+RewriteEngine On 
+RewriteCond %{HTTP_HOST} ^www.exam-nfa83.000webhostapp\.com
+RewriteRule (.*) http://exam-nfa83.000webhostapp.com/$1 [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^www.exam-nfa83.000webhostapp\.com/index.php
+RewriteRule (.*) http://exam-nfa83.000webhostapp.com/$1 [R=301,L]
+
