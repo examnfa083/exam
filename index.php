@@ -26,7 +26,7 @@
   </section>
   <section><h2>Complément d'information</h2>
            <p><strong>Une question complémentaire ? </strong> 
-              <a href="questions.php" id="question" class="actif">Poser une question</a>
+              <a href="question.php" id="question" class="actif">Poser une question</a>
            </p>
   </section>
   
