@@ -2,7 +2,7 @@
 
 function connexion($bddname) {
 /* variables de connexion =================================================== */
-    $serveur = 'localhost';       $loginserveur = 'root';   $mdpserveur = ''; // variables connexion serveur
+    $serveur = 'localhost';       $loginserveur = 'id6094038_exam_nfa83';   $mdpserveur = 'miniprojetexam'; // variables connexion serveur
 
 
 /* connexion ================================================================ */
